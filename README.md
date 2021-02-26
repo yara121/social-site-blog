@@ -1,3 +1,6 @@
+Live Demo: https://optimistic-dijkstra-9da781.netlify.app/index.html
+
+
 # title(){
 		
 		return this.options.title || this.options.name;
